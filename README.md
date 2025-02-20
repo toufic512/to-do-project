@@ -27,7 +27,7 @@ This is a simple **React-based Todo List Application** that allows users to:
 ## Installation & Running
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/toufic512/todo-app.git
    cd todo-app
    ```
 2. **Install dependencies:**
